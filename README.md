@@ -128,10 +128,3 @@ Relationships:
 Current project checks completed locally:
 - `npm run lint`
 - `npm run build`
-
-## Next Steps
-
-Typical next steps during development:
-- run end-to-end manual tests with realistic sample data
-- verify scoring and qualification transitions on a real MongoDB dataset
-- prepare deployment environment variables
